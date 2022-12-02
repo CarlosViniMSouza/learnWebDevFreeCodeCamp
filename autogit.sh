@@ -1,7 +1,4 @@
-git init
 git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/CarlosViniMSouza/learnWebDevFreeCodeCamp.git
+git commit -m "Next Step: html comments"
 git push -u origin main
 git status
