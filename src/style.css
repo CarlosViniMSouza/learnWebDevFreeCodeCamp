@@ -27,3 +27,9 @@
     margin-right: 0;
     margin-top: 18px;
 }
+
+.iframe_fcc {
+    height: 200px;
+    width: 600px;
+    border: none;
+}
