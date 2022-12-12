@@ -6,6 +6,7 @@
     text-align: center;
 }
 
+// class example
 .title {
     font-family: "Times New Roman", Times;
     font-size: 24px;
@@ -32,4 +33,10 @@
 .iframe_fcc {
     height: 32rem;
     width: 48rem;
+}
+
+// selector example:
+#tableThings {
+    background-color: #6b6b;
+    color: #fff;
 }
