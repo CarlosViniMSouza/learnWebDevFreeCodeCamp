@@ -1,8 +1,9 @@
 .container {
     background-color: #fff;
-    align-items: center;
-    align-text: center;
-    justify-content: center;
+    height: 100%;
+    width: 100%;
+    image-align: center;
+    text-align: center;
 }
 
 .title {
@@ -29,7 +30,6 @@
 }
 
 .iframe_fcc {
-    height: 200px;
-    width: 600px;
-    border: none;
+    height: 32rem;
+    width: 48rem;
 }
